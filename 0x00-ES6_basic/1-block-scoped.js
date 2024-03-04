@@ -3,8 +3,8 @@ export default function taskBlock(trueOrFalse) {
   const task2 = true;
 
   if (trueOrFalse){
-
+    /* no repetition */
   }
 
   return [task, task2];
-  }
+}
